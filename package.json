@@ -1,0 +1,17 @@
+{
+  "name": "jev-explicado-demo",
+  "private": true,
+  "type": "module",
+  "description": "Demo de cierre del vídeo 'Jev explicado desde cero'. Node 24 ejecuta los .ts directamente.",
+  "scripts": {
+    "typecheck": "tsc -p .",
+    "moderar": "node --env-file=.env moderar.ts"
+  },
+  "dependencies": {
+    "@typesafe-ai/sdk": "0.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0"
+  }
+}
