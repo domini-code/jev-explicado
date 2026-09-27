@@ -1,5 +1,7 @@
 # Demo de cierre: moderar comentarios con Jev
 
+[![Jev explicado desde cero: no habla, decide](assets/jev-no-habla-decide.png)](https://youtu.be/ZaNgSWotmrM)
+
 Ocho comentarios de YouTube (`comentarios.json`), cuatro preguntas en una llamada por comentario y la decisión en código según el riesgo. Es la sección "DEMO FINAL" de `../script.md`.
 
 ```bash
@@ -12,3 +14,9 @@ npm run typecheck      # tsc estricto contra @typesafe-ai/sdk 0.6.0
 - Modelo fijado: `jev-1.13.0`. Node 24 ejecuta el `.ts` directamente.
 - Los comentarios son inventados. El #8 lleva una instrucción inyectada a propósito.
 - Los números (confianzas, tiempos, coste) cambian en cada ejecución: en el vídeo se leen de la pantalla.
+
+## Recursos
+
+- 🎥 Vídeo: [Jev explicado desde cero: la IA que no escribe, decide](https://youtu.be/ZaNgSWotmrM)
+- 🎙️ Webinar: [dominicode.com/go/17DOZ8](https://dominicode.com/go/17DOZ8)
+- 📘 Ebook: [dominicode.com/go/25UPZ2](https://dominicode.com/go/25UPZ2)
