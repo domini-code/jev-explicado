@@ -1,6 +1,6 @@
-# Demo de cierre: moderar comentarios con Jev
 
-[![Jev explicado desde cero: no habla, decide](assets/jev-no-habla-decide.png)](https://youtu.be/ZaNgSWotmrM)
+# Demo de cierre: moderar comentarios con Jev
+[![Jev explicado desde cero: no habla, decide](https://github.com/user-attachments/assets/5673fb96-220b-41ec-9a88-8b002393974d)](https://youtu.be/ZaNgSWotmrM)
 
 Ocho comentarios de YouTube (`comentarios.json`), cuatro preguntas en una llamada por comentario y la decisión en código según el riesgo. Es la sección "DEMO FINAL" de `../script.md`.
 
